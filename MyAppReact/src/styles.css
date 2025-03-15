@@ -1,0 +1,24 @@
+* {
+	background: #171717;
+	padding: 10px;
+}
+
+#app {
+	color: #fff;
+}
+
+#page {
+	border: #0a0a0a solid 7px;
+	border-radius: 10px;
+}
+
+#bun {
+	border: #0a0a0a solid 5px;
+	border-radius: 10px; 
+	font-size: 25px;
+	color: #fff;
+	font-weight: bold;
+	width: 200px;
+	height: 100px;
+	background: #242424;
+}
